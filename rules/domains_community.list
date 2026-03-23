@@ -53,6 +53,8 @@ DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,graph.facebook.com
 DOMAIN-SUFFIX,wa.me
 DOMAIN-SUFFIX,bintray.com
+# services
+DOMAIN-SUFFIX,yazio.com
 # other
 DOMAIN-SUFFIX,cub.red
 DOMAIN-SUFFIX,dyson.com
